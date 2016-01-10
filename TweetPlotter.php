@@ -1,6 +1,6 @@
 <?php
 $data = file_get_contents('hashtagSearch4.csv'); // change the file name here
-$api_key = '/* ADD YOUR OWN KEY HERE */';
+$api_key = ''; // ADD YOUR OWN GOOGLE MAPS API KEY HERE
 $lines = explode("\n",$data);
 
 foreach($lines as $key => $value) {
