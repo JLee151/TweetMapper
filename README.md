@@ -2,6 +2,7 @@
 ENGR 180 Final Project working with Python, Twitter API, and Google Maps API
 
 - Introducing the poor man's version of mapping tweets based on a keyword/hashtag for the state of California.
+- Visual analysis between average household income (2010 Census data) and what people tweet
 - Done at UC Merced Fall 2015 semester
 
 STEPS TO RUN MY PROJECT
