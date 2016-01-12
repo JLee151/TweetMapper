@@ -17,6 +17,7 @@ csvfile = file(file_name, "w")
 csvwriter = csv.writer(csvfile)
 row = [ "Title", "Content", "Lat", "Long" ]
 
+#just had this stuff here so I could print out test tweets. Lines 21-25 can be ignored
 tweets = []
 screen_names = []
 content = []
